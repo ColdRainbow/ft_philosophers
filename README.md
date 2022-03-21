@@ -1,2 +1,2 @@
-# ft_philosophers
-In this project, you will learn the basics of threading a process. You will see how to create threads and you will discover mutexes.
+# ft_arr_philosophers
+In this project, you will learn the basics of threading a process. You will learn how to make threads. You will discover the mutex.
